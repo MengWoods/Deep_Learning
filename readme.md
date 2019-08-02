@@ -14,5 +14,5 @@ This repo includes DL works, projects.
 - Image matting
   > Applying neural network to do image matting.
   
-  - [matting with removebg library]()
+  - [matting with removebg library](https://github.com/MorganWoods/Deep_Learning/blob/master/2_Image_matting/removebg.py)
 
