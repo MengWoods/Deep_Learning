@@ -11,3 +11,8 @@ This repo includes DL works, projects.
   - [HEU mainbuildings classification programme](https://github.com/MorganWoods/Deep_Learning/blob/master/1_HEUbuilding/1_code/wmhcode.py)
   - [Os operation, rename files programme](https://github.com/MorganWoods/Deep_Learning/blob/master/1_HEUbuilding/preprocessing.py)
 
+- Image matting
+  > Applying neural network to do image matting.
+  
+  - [matting with removebg library]()
+
