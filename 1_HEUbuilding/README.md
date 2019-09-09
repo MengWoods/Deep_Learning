@@ -22,10 +22,10 @@
 
 - 训练过程，总回合数为100，训练精准度达到98%左右。
 
-![](){https://github.com/MorganWoods/Deep_Learning/blob/master/1_HEUbuilding/src/plot.png}
+![](https://github.com/MorganWoods/Deep_Learning/blob/master/1_HEUbuilding/src/plot.png)
 
 - 本模型使用方法
   - 在python3环境下使用,需要安装的库有:Tensorflow, Keras, numpy, skimage, cv2, 等;  
   - 下载model/整个文件夹,并新建testpic/ 子文件夹,将需要测试的图片放入这个文件夹中.
-  - 在电脑命令行模式下,python3工作环境,使用命令 python prediction.py -name  ;  其中name问图片的名字,不含扩展名. 命令行随后会输出预测的类别与他的概率.
+  - 在电脑命令行模式下,python3工作环境,使用命令 ```python prediction.py -name```  ;  其中name问图片的名字,不含扩展名. 命令行随后会输出预测的类别与他的概率.
   
