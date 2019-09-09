@@ -30,6 +30,8 @@
   - 在电脑命令行模式下,python3工作环境,使用命令 ```python prediction.py -n=name```  ;  其中name为图片的名字,不含扩展名. 命令行随后会输出预测的类别与他的概率.
   
 - 样例
+
+
 ![](https://github.com/MorganWoods/Deep_Learning/blob/master/1_HEUbuilding/src/sample1.png)
 ![](https://github.com/MorganWoods/Deep_Learning/blob/master/1_HEUbuilding/src/sample2.png)
 ![](https://github.com/MorganWoods/Deep_Learning/blob/master/1_HEUbuilding/src/sample3.png)
