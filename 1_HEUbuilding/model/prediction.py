@@ -25,9 +25,9 @@ import argparse
 root_path = os.getcwd() # get current working directory
 #os.chdir('/Users/menghao/Document/2_project/1_HEUbuilding/testpics')
 
-img_path = '/Users/menghao/Document/2_project/1_HEUbuilding/testpics/'
-model_path = '/Users/menghao/Document/2_project/1_HEUbuilding/result/2019_8_30/model.model'
-pickle_path = '/Users/menghao/Document/2_project/1_HEUbuilding/result/2019_8_30/mlb.pickle'
+img_path = root_path + '/testpics/'
+model_path = root_path + '/model.model'
+pickle_path = root_path + '/mlb.pickle'
 
 SCALE = (192, 108)
 # construct the argument parse and parse the arguments
