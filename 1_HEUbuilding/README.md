@@ -26,7 +26,7 @@
 
 - 本模型使用方法
   - 在python3环境下使用,需要安装的库有:Tensorflow, Keras, numpy, skimage, cv2, 等;  
-  - 下载model/整个文件夹,并新建testpic/ 子文件夹,将需要测试的图片放入这个文件夹中.
+  - 下载[model](https://github.com/MorganWoods/Deep_Learning/tree/master/1_HEUbuilding/model)整个文件夹,并新建testpic/ 子文件夹,将需要测试的图片放入这个文件夹中.
   - 在电脑命令行模式下,python3工作环境,使用命令 ```python prediction.py -n=name```  ;  其中name为图片的名字,不含扩展名. 命令行随后会输出预测的类别与他的概率.
   
 - 样例
