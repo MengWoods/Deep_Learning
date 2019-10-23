@@ -19,6 +19,10 @@ This repo includes DL works, projects.
 
 ## trival
 
+- Tutorial
+
+  - [Machin Learning tutorial for beginner](https://github.com/MorganWoods/Deep_Learning/tree/master/Tutorial)
+
 - MNIST
 
   - [MNIST](https://github.com/MorganWoods/Deep_Learning/blob/master/MNIST/MNIST01.py)
