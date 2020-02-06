@@ -17,7 +17,7 @@ This repo includes DL works, projects.
   - [matting with removebg library](https://github.com/MorganWoods/Deep_Learning/blob/master/2_Image_matting/removebg.py)
 
 
-## trival
+## trivial
 
 - Tutorial
 
